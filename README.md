@@ -27,6 +27,7 @@ My Hack pad uses QMK firmware which i initialised and compiled in terminal
 <img width="769" height="533" alt="Screenshot 2026-08-23 at 02 02 40" src="https://github.com/user-attachments/assets/6503feec-7ef5-4ab1-a8b0-2205d5490a01" />
 <img width="1374" height="803" alt="Screenshot 2026-08-23 at 02 02 15" src="https://github.com/user-attachments/assets/451f4967-ace7-4a62-a7c5-e2588e1f66a9" />
 
-## Extra
+## Final Board Build
 
 This was my first attempt at pcb design and overall making a macropad so i am pretty happy with the results!
+<img width="675" height="900" alt="image" src="https://github.com/user-attachments/assets/a6eaa502-0ac9-4792-8add-c2f9684969c2" />
